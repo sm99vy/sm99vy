@@ -1,37 +1,48 @@
 # 👾 Hey, I'm Nicolas!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Software+Engineering+student;Learning+Python+%26+C;Building+projects+one+step+at+a+time" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Software+Engineering+student;Learning+Python+%26+C;Exploring+Web+Development;Building+projects+one+step+at+a+time" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <i>Learning by building, experimenting, and improving every day.</i>
+  <i>Learning by building, breaking things, and figuring them out along the way.</i>
 </p>
 
 ---
 
 ### 🧑‍💻 About me
 
-I'm studying Software Engineering and using GitHub to turn what I learn into practical projects.
+I'm studying Software Engineering and using GitHub to put what I learn into practice.
 
-I'm still at the beginning of my journey, exploring different technologies, solving problems, and building things along the way.
+I'm interested in building useful things with code, from small applications to projects that automate everyday tasks. I'm also curious about web development and AI, and I enjoy exploring how technology works behind the scenes.
+
+I'm still learning, so you'll find projects at different stages here — each one is a chance to try something new and get a little better.
 
 ### 🔭 Currently working on
-Personal projects to practice programming and turn ideas into working applications.
+
+Personal projects that help me practice programming, solve problems, and turn ideas into working applications.
 
 ### 🌱 Currently learning
+
 - Python and C
-- Web development
+- Web development with HTML and CSS
 - Software Engineering fundamentals
+- Automation and AI-powered tools
 
 ### 👯 Looking to collaborate on
-Beginner-friendly projects and ideas that help me learn by building real things.
 
-### 💬 Ask me about
-My projects, what I'm learning, and the challenges I'm working through.
+Beginner-friendly projects, useful tools, and ideas where I can learn from other developers and contribute along the way.
+
+### 💬 Things I'm interested in
+
+- Building practical projects and automating repetitive tasks
+- Web development and software design
+- Artificial intelligence and its real-world applications
+- Games, esports, and the technology behind them
 
 ### ⚡ Fun fact
-I like finding simpler ways to solve problems — sometimes that ends up becoming a new project.
+
+I'm into games and esports, and I like finding smarter ways to solve problems. Sometimes the best way to understand how something works is to try building it yourself.
 
 ---
 
@@ -47,12 +58,15 @@ I like finding simpler ways to solve problems — sometimes that ends up becomin
 
 ### 📂 Featured projects
 
-Check out my pinned repositories below to see what I'm building and learning.
+Take a look at my pinned repositories to see what I'm building, experimenting with, and learning along the way.
 
 ---
 
 ### 📫 Let's connect
 
 - GitHub: [@sm99vy](https://github.com/sm99vy)
-- LinkedIn: [My LinkedIn profile](https://www.linkedin.com/)
+- LinkedIn: [Nicolas Henry](https://www.linkedin.com/in/nicolas-henry-oliveira-penha-65830927b/)
 
+<p align="center">
+  <i>Still learning. Still building. Always curious.</i>
+</p>
