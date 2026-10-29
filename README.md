@@ -1,4 +1,4 @@
-# 👾 Hey, I'm Nicolas!
+<h1 align="center">👾 Hey, I'm Nicolas!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Software+Engineering+student;Learning+Python+%26+C;Exploring+Web+Development;Building+projects+one+step+at+a+time" alt="Typing animation" />
