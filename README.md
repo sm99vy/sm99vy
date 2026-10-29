@@ -65,7 +65,7 @@ Take a look at my pinned repositories to see what I'm building, experimenting wi
 ### 📫 Let's connect
 
 - GitHub: [@sm99vy](https://github.com/sm99vy)
-- LinkedIn: [Nicolas Henry](https://www.linkedin.com/in/nicolas-henry-oliveira-penha-65830927b/)
+- LinkedIn: [Nicolas Henry](https://www.linkedin.com/in/nicolas-henry-oliveira)
 
 <p align="center">
   <i>Still learning. Still building. Always curious.</i>
