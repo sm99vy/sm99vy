@@ -1,7 +1,7 @@
 <h1 align="center">👾 Hey, I'm Nicolas!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Software+Engineering+student;Learning+Python+%26+C;Exploring+Web+Development;Building+projects+one+step+at+a+time" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Software+Engineering+student;Learning+Python+%26+C+%26+SQL;Exploring+Web+Development;Exploring+Databases;Building+projects+one+step+at+a+time" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -28,6 +28,8 @@ Personal projects that help me practice programming, solve problems, and turn id
 - Web development with HTML, CSS and JavaScript
 - Software Engineering fundamentals
 - Automation and AI-powered tools
+- SQL and relational databases
+- Database modeling and management
 
 ### 👯 Looking to collaborate on
 
@@ -39,6 +41,7 @@ Beginner-friendly projects, useful tools, and ideas where I can learn from other
 - Web development and software design
 - Artificial intelligence and its real-world applications
 - Games, esports, and the technology behind them
+- Database design, SQL, and data management
 
 ### ⚡ Fun fact
 
@@ -51,6 +54,7 @@ I'm into games and esports, and I like finding smarter ways to solve problems. S
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
