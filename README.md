@@ -25,7 +25,7 @@ Personal projects that help me practice programming, solve problems, and turn id
 ### 🌱 Currently learning
 
 - Python and C
-- Web development with HTML and CSS
+- Web development with HTML, CSS and JavaScript
 - Software Engineering fundamentals
 - Automation and AI-powered tools
 
